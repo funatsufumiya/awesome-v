@@ -322,6 +322,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [V UI](https://github.com/vlang/ui) - Integrated cross platform UI toolkit for Windows, macOS, Linux, Android, iOS and the web.
 - [vgtk3](https://github.com/vgtk/vgtk3) - A wrapper for GTK3 in V.
 - [vig](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui](https://github.com/ocornut/imgui) GUI toolkit.
+- [V libui](https://github.com/funatsufumiya/v-libui) - Bindings for [libui-ng](https://github.com/libui-ng/libui-ng), a portable GUI library, "libui for the next generation".
 - [vnk](https://github.com/nsauzede/vnk) - Bindings for [Nuklear](https://github.com/vurtun/nuklear) GUI toolkit.
 - [V-WebUI](https://github.com/webui-dev/v-webui) - A wrapper for WebUI. A lightweight library that allows you to use any web browser as a GUI, with V in the backend and HTML5 in the frontend.
 - [webview](https://github.com/ttytm/webview) - Bindings for webview. A tiny library to build modern cross-platform GUI applications. It allows to combine V with modern web technologies to design a graphical user interface.
